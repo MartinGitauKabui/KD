@@ -16,7 +16,7 @@
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	line-height: 1;
-	color:#0015FF;
+	color:#00AAFF;
 }
 .main-banner .banner-text h2, .main-banner .banner-text h2 span {
 	font-size: 45px;
@@ -146,7 +146,7 @@
 	width: 50px;
 	height: 50px;
 	line-height: 50px;
-	background: #0015FF;
+	background: #00AAFF;
 	text-align: center;
 	color: #fff;
 	border-radius: 5px;
@@ -293,7 +293,7 @@
 	background: #2adc71;
 }
 .orgen_bg {
-	background: #0015FF;
+	background: #00AAFF;
 }
 .maine_box .items_picher img {
 	width: 100%;
@@ -345,10 +345,10 @@
 }
 .use_detail .event_detail {
 	border-radius: 50%;
-	border: 2px solid #0015FF;
+	border: 2px solid #00AAFF;
 	width: 50px;
 	height: 50px;
-	background: #0015FF;
+	background: #00AAFF;
 	line-height: 45px;
 	color: #fff;
 	font-size: 25px;
@@ -440,7 +440,7 @@ figure {
 	right: 0;
 	color: #fff;
 	padding: 6px;
-	background: #0015FF;
+	background: #00AAFF;
 	min-width: 80px;
 	text-align: center;
 }
@@ -542,7 +542,7 @@ figure {
 	background: #eaeaea none repeat scroll 0 0;
 	border-radius: 50%;
 	bottom: -23px;
-	color: #0015FF;
+	color: #00AAFF;
 	content: "\f10d";
 	font-family: fontawesome;
 	font-size: 18px;
@@ -582,8 +582,8 @@ figure {
 }
 
 .testimonial_carosule-wrap .owl-nav div {
-	border: 1px solid #0015FF;
-	color: #0015FF;
+	border: 1px solid #00AAFF;
+	color: #00AAFF;
 	display: inline-block;
 	font-size: 18px;
 	height: 40px;
@@ -602,7 +602,7 @@ figure {
 	text-align: center;
 }
 .testimonial_carosule-wrap .owl-nav div:hover {
-	background: #0015FF;
+	background: #00AAFF;
 	color: #fff;
 }
 .member_say {
@@ -655,7 +655,7 @@ figure {
 	display: inline-block;
 	margin-bottom: 15px;
 	font-weight: 700;
-	color: #0015FF;
+	color: #00AAFF;
 }
 .blog .post-content a.blog_tital:hover, .blog .post-content a.read_more:hover {
 	color: #714da0;
