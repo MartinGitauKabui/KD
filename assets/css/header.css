@@ -18,7 +18,7 @@
 	content: '';
 	width: 50%;
 	height:100%;
-	background:#0015FF;
+	background:#00AAFF;
 	z-index: -1;
 	margin-left: -250px;
 }
@@ -29,7 +29,7 @@
     content: '';
     width: 60px;
     height: 100%;
-    background: #0015FF;
+    background: #00AAFF#00AAFF;
     z-index: -1;
     margin-left: -281px;
     transform: skew(-23deg);
@@ -55,8 +55,8 @@
 }
 .menu {
 	border: none;
-	border-bottom: 4px solid #0015FF;
-	border-top: 4px solid #0015FF;
+	border-bottom: 4px solid #00AAFF;
+	border-top: 4px solid #00AAFF;
 	height: 29px;
 	position: absolute;
 	right: 29px;
@@ -71,7 +71,7 @@
 	content: '';
 	width: 100%;
 	height: 4px;
-	background:#0015FF;
+	background:#00AAFF;
 }
 .header ul {
 	float: right;
@@ -193,7 +193,7 @@
 		display: none;
 	}
 	.header{
-		background: #0015FF;
+		background: #00AAFF;
 	}
 	.menu{
 		border-bottom: 4px solid #fff;
@@ -222,7 +222,7 @@
 		top: 0;
 		width: 100%;
 		z-index: 9;
-		background:#0015FF;
+		background:#00AAFF;
 	}
 
 	.navigation ul li {
