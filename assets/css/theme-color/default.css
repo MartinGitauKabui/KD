@@ -19,23 +19,23 @@
 .abt-block__slider .owl-dots .owl-dot, .bullet_round:after, .second_righ:after, .bg_color, .bg-color, .prapl_btn:hover,
 .item-nav .item-prev .prev-btn:hover, .item-nav .item-next .next-btn:hover,
 .ui-input-group .input-bar:before, .ui-input-group .input-bar:after, .inner-header-wraper:hover i {
-  background: #0015FF;
+  background: #00AAFF;
 }
 
 .bullet_round:before, .second_righ:before {
-  box-shadow: 0 0 6px 6px #0015FF;
+  box-shadow: 0 0 6px 6px #00AAFF;
 }
 
 .inner-header-wraper:hover i {
-  box-shadow: 0 0px 0px 46px #0015FF inset;
+  box-shadow: 0 0px 0px 46px #00AAFF inset;
 }
 
 .line-box i {
-  box-shadow: 0 0px 0px 1px #0015FF inset;
+  box-shadow: 0 0px 0px 1px #00AAFF inset;
 }
 
 .home2_banner:before, .team-item-img .team-item-detail {
-  background: #0015FF;
+  background: #00AAFF;
   /* The Fallback */
   background: rgba(34, 34, 34, 0.71);
 }
@@ -56,7 +56,7 @@ a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 .white_but, .white_but:hover, .white_but:focus, .widget-tag li a, .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn,
 .team-item-img .team-item-detail .team-item-detail-inner .social li a:hover, .btn_style:hover, .form-field-wrapper i,
 .ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ label {
-  color: #0015FF;
+  color: #00AAFF;
 }
 
 /*
@@ -69,7 +69,7 @@ a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 .tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, .position_none .btn_style, .arrow_theme .owl-prev:hover, .arrow_theme .owl-next:hover,
 .v-line, .pic-box, .white_but, .box-resume, .prapl_btn, .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn,
 .appointment-section .input-sm {
-  border-color: #0015FF;
+  border-color: #00AAFF;
 }
 
 .timing li {
@@ -77,5 +77,5 @@ a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 }
 
 .ui-input-group > input:focus {
-  border-bottom-color: #0015FF;
+  border-bottom-color: #00AAFF;
 }
